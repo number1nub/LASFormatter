@@ -1,2 +1,2 @@
-# LASFormatter
-Simple utility for converting text files to a standard format
+# LAS Formatter
+Simple utility for converting text files to a standardized format
